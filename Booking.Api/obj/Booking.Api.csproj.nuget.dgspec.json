@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Api\\Booking.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Api\\Booking.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Api\\Booking.Api.csproj",
+        "projectName": "Booking.Api",
+        "projectPath": "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Api\\Booking.Api.csproj",
+        "packagesPath": "C:\\Users\\eu_pa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eu_pa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Domain\\Booking.Domain.csproj": {
+                "projectPath": "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Domain\\Booking.Domain.csproj"
+              },
+              "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Infrastructure\\Booking.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Infrastructure\\Booking.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Domain\\Booking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Domain\\Booking.Domain.csproj",
+        "projectName": "Booking.Domain",
+        "projectPath": "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Domain\\Booking.Domain.csproj",
+        "packagesPath": "C:\\Users\\eu_pa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eu_pa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Infrastructure\\Booking.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Infrastructure\\Booking.Infrastructure.csproj",
+        "projectName": "Booking.Infrastructure",
+        "projectPath": "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Infrastructure\\Booking.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\eu_pa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eu_pa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Domain\\Booking.Domain.csproj": {
+                "projectPath": "C:\\Users\\eu_pa\\source\\repos\\BookingApi\\Booking.Domain\\Booking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

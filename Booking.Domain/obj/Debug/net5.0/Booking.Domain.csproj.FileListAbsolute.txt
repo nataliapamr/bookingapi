@@ -1,0 +1,12 @@
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Domain\bin\Debug\net5.0\Booking.Domain.deps.json
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Domain\bin\Debug\net5.0\Booking.Domain.dll
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Domain\bin\Debug\net5.0\ref\Booking.Domain.dll
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Domain\bin\Debug\net5.0\Booking.Domain.pdb
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Domain\obj\Debug\net5.0\Booking.Domain.csproj.AssemblyReference.cache
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Domain\obj\Debug\net5.0\Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Domain\obj\Debug\net5.0\Booking.Domain.AssemblyInfoInputs.cache
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Domain\obj\Debug\net5.0\Booking.Domain.AssemblyInfo.cs
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Domain\obj\Debug\net5.0\Booking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Domain\obj\Debug\net5.0\Booking.Domain.dll
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Domain\obj\Debug\net5.0\ref\Booking.Domain.dll
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Domain\obj\Debug\net5.0\Booking.Domain.pdb

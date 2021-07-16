@@ -1,0 +1,13 @@
+C:\app\build\Booking.Infrastructure.deps.json
+C:\app\build\Booking.Infrastructure.dll
+C:\app\build\ref\Booking.Infrastructure.dll
+C:\app\build\Booking.Infrastructure.pdb
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Infrastructure\obj\Release\net5.0\Booking.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Infrastructure\obj\Release\net5.0\Booking.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Infrastructure\obj\Release\net5.0\Booking.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Infrastructure\obj\Release\net5.0\Booking.Infrastructure.AssemblyInfo.cs
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Infrastructure\obj\Release\net5.0\Booking.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Infrastructure\obj\Release\net5.0\Booking.Infrastructure.csproj.CopyComplete
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Infrastructure\obj\Release\net5.0\Booking.Infrastructure.dll
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Infrastructure\obj\Release\net5.0\ref\Booking.Infrastructure.dll
+C:\Users\eu_pa\source\repos\BookingApi\Booking.Infrastructure\obj\Release\net5.0\Booking.Infrastructure.pdb
