@@ -18,13 +18,17 @@ Welcome to Booking Api
 
     ## Open Visual Studio Code
         - Go to the Booking.Api folder 
+        
         ```bash 
         cd .\Booking.Api\
         ```
+        
         - Execute the command: 
+        
         ```bash
             dotnet run
         ```
+        
         - Open your prefered browser at https://localhost:5001/swagger/
 
 # To publish the api using docker
