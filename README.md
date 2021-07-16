@@ -30,7 +30,7 @@
 
 ## In case you want to test in an already created application you can try via the link
 - http://booking-api-cancun.herokuapp.com/api/BookARoom/
-    #endpoints:
+    ## Endpoints:
         #GET
             - /getAll
             - /getById/{id}
